@@ -7,11 +7,11 @@
 [![](https://visitcount.itsvg.in/api?id=MechaNeil&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-
+<img align="right" alt="Coding" width="50" src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png">
 
 # 💫 About Me: <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<img align="right" alt="Coding" width="50" src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png">
+
 
 - 🔭 I’m currently working on **Laravel/Livewire Web-based system**
 
@@ -36,15 +36,13 @@
 
 # 📊 GitHub Stats:
 
+<img align="left" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=MechaNeil&theme=vue-dark&hide_border=true) &nbsp; 
 
-<img align="left" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">  ![](https://github-readme-stats.vercel.app/api?username=MechaNeil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  <br/> 
+![](https://github-readme-stats.vercel.app/api?username=MechaNeil&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)
 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=MechaNeil&theme=dark&hide_border=false)<br/>
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MechaNeil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MechaNeil&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 
@@ -53,5 +51,8 @@
 
 <img align="left" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif">
 
-<img align="left" alt="Coding" width="auto" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
