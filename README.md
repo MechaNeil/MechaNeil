@@ -29,7 +29,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mechaneil&show_icons=true&locale=en&layout=compact" alt="mechaneil" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mechaneil&show_icons=true&locale=en" alt="mechaneil" /></p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mechaneil&" alt="mechaneil" /></p>
-<img align="left" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif">
+<img align="left" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif">
 
