@@ -38,7 +38,7 @@
 
 
 
-<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">  ![](https://github-readme-stats.vercel.app/api?username=MechaNeil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  <br/> 
+<img align="left" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">  ![](https://github-readme-stats.vercel.app/api?username=MechaNeil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  <br/> 
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MechaNeil&theme=dark&hide_border=false)<br/>
