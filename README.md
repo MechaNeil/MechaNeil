@@ -44,8 +44,8 @@
 
 
 
-### ✍️ Random Dev Quote
-<img align="left" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif"> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Random Dev Quote <img align="left" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif">
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
