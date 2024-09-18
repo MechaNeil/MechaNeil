@@ -1,7 +1,7 @@
 ![MasterHead](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY2NDE3NTUsIm5iZiI6MTcyNjY0MTQ1NSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTE4VDA2MzczNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThkN2M2NWRmNTU1ZTE4ZWY1MTRkMTE2OGUxNjFjN2ViZjlhNmVhZmY4Nzg4ZWViNzNmNjVlMWVkNWY4M2ZiZjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.FWnL7Jxhwpod2-JcFaWN1Q9fLkray9dy1RHkHXRhtUg)
 
 <h1 align="center">Hi 👋, I'm Mark Neil Teves</h1>
-<h3 align="center">A passionate junior developer from Philippines</h3>
+<h3 align="center">A passionate <strong>Junior Developer</strong> from Philippines</h3>
 
 
 [![](https://visitcount.itsvg.in/api?id=MechaNeil&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -9,10 +9,7 @@
 
 <img align="right" alt="Coding" width="50" src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png">
 
-# 💫 About Me: 
-<img align="right" alt="Coding" width="240" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-
+# 💫 About Me: <img align="right" alt="Coding" width="370" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 🔭 I’m currently working on **Laravel/Livewire Web-based system**
 
@@ -37,9 +34,10 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=MechaNeil&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false) &nbsp; &nbsp; &nbsp; &nbsp; <img alt="Coding" width="190" src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif">
+<img alt="Coding" width="190" src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif">
 
-<img align="left" alt="Coding" width="210" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"> 
+![](https://github-readme-stats.vercel.app/api?username=MechaNeil&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false) 
+
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MechaNeil&theme=vue-dark&hide_border=true)
 
