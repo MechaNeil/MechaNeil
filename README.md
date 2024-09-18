@@ -14,15 +14,15 @@
 
 
 
-- 🔭 I’m currently working on **Laravel/Livewire Web-based system**
+🔭 I’m currently working on **Laravel/Livewire Web-based system**
 
-- 🌱 I’m currently learning **Laravel, Livewire, Php**
+🌱 I’m currently learning **Laravel, Livewire, Php**
 
-- 💬 Ask me about **Livewire**
+💬 Ask me about **Livewire**
 
-- 📫 How to reach me **markneilteves12345@gmail.com**
+📫 How to reach me **markneilteves12345@gmail.com**
 
-- ⚡ Fun fact **If you don't break your bugs, then you don't have to fix it.**
+⚡ Fun fact **If you don't break your bugs, then you don't have to fix it.**
 
 
 ## 🌐 Socials:
@@ -37,11 +37,12 @@
 
 # 📊 GitHub Stats:
 
-<img align="left" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+![](https://github-readme-stats.vercel.app/api?username=MechaNeil&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false) &nbsp; &nbsp; &nbsp; &nbsp; <img alt="Coding" width="190" src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif">
+
+<img align="left" alt="Coding" width="210" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"> 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MechaNeil&theme=vue-dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api?username=MechaNeil&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MechaNeil&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
