@@ -39,13 +39,11 @@
 
 <img alt="Coding" width="190" src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif">
 
-![](https://github-readme-stats.vercel.app/api?username=MechaNeil&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false) 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mechaneil&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=true" alt="mechaneil" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mechaneil&show_icons=true&theme=vue-dark&hide_border=true&locale=en" alt="mechaneil" /></p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MechaNeil&theme=vue-dark&hide_border=true)
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MechaNeil&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mechaneil&theme=vue-dark&hide_border=true&" alt="mechaneil" /> </p> 
 
 
 
