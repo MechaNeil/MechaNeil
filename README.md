@@ -21,7 +21,7 @@
 
 📫 How to reach me **markneilteves12345@gmail.com**
 
-⚡ Fun fact **Did you know that the term "bug" in programming was coined when a real moth caused a malfunction in an early computer? Grace Hopper, a pioneering computer scientist, found the moth stuck in a relay and taped it into her logbook, calling it a "bug." So, the next time you debug your code, remember that it all started with an actual insect! 🐛**
+⚡ Fun fact **The first computer "bug" was an actual moth found in 1947. 🦋**
 
 
 ## 🌐 Socials:
