@@ -72,8 +72,5 @@
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
-<p align = "center">
-  
 ![Snake animation](https://github.com/MechaNeil/MechaNeil/blob/output/github-contribution-grid-snake.svg)
 
-</p>
