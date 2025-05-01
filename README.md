@@ -72,5 +72,11 @@
 
 ## 🐍 A Snake Eating my Contributions Graph
 
-![snake animation](https://github.com/MechaNeil/MechaNeil/blob/output/github-contribution-grid-snake2.svg)
+<p align="center">
+	<picture>
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MechaNeil/MechaNeil/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MechaNeil/MechaNeil/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MechaNeil/MechaNeil/output/github-contribution-grid-snake.svg">
+	</picture>
+</p>
 
