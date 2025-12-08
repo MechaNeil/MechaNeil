@@ -30,14 +30,12 @@
 - :thinking: I’m currently open for a new `job opportunity`,
 - :nerd_face: Always `learning new things`.
 
-<br>
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mark.neil.teves.2024) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mark.neil.teves.2024)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markneilteves12345@gmail.com)
 
-
-<br>
 
 # 💻 Tech Stack: <img align="right" alt="coffe" width="40" src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png">
 
@@ -90,9 +88,8 @@
 
 ## 🏆 Git Profile Trophies
 <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=MechaNeil&theme=onedark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&no-frame=true" alt="TROPHY" />
-    </a>
+	
+[![trophy](https://github-trophies.vercel.app/?username=MechaNeil&no-bg=true&no-frame=true&theme=darkhub)](https://github.com/lucthienphong1120/github-trophies)
 </div>
 
 <br>
